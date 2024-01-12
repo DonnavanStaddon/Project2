@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="style.css">
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGq-iiYedwPAgjcrRsrtiJuIYdF2TGU8Q&callback=console.debug&libraries=maps,marker&v=beta">
+        </script>
     <title>Full Stack Website Designer</title>
 </head>
+
 <body>
     <div id="nav">
         <nav>
@@ -16,12 +23,12 @@
                 <a href="#about">About</a>
                 <a href="#contact">Contact</a>
                 <div class="search-container">
-                  <form action="/action_page.php">
-                    <input type="text" placeholder="Search.." name="search">
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                  </form>
+                    <form action="/action_page.php">
+                        <input type="text" placeholder="Search.." name="search">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
                 </div>
-              </div>
+            </div>
         </nav>
     </div>
 
@@ -51,11 +58,11 @@
         <div id="two">
             <h1>Why Responsive?</h1>
             <p>
-                Responsive web design makes your web page look good on all devices. Designing 
-                For The Best Experience For All Users Web pages can be viewed using many 
+                Responsive web design makes your web page look good on all devices. Designing
+                For The Best Experience For All Users Web pages can be viewed using many
                 different devices: desktops, tablets, and phones. Your web page should look
-                good, and be easy to use, regardless of the device. Web pages should not 
-                leave out information to fit smaller devices, but rather adapt its content to 
+                good, and be easy to use, regardless of the device. Web pages should not
+                leave out information to fit smaller devices, but rather adapt its content to
                 fit any device.
             </p>
 
@@ -63,7 +70,7 @@
         <div id="three">
             <h1>Front End</h1>
             <p>
-                The scripting languages we specialise in for front end website development are 
+                The scripting languages we specialise in for front end website development are
                 HTML5, CSS, Javascript.
                 The scripting languages we specialise in for back end database development
                 are PHP, SQL, MySQLI, Python, DJango
@@ -73,15 +80,20 @@
             <h1>Back End</h1>
             <p>
                 The scripting languages we specialise in for back end database development are PHP,
-                 SQL, MySQLI, Python
+                SQL, MySQLI, Python
             </p>
         </div>
         <div id="five">
             <h1>About</h1>
             <p>
-                We are located in North Wales | Contact | Email | vadcode@gmail.com |Education | Cardiff College | GOOGLE MAP:
+                We are located in North Wales | Contact | Email | vadcode@gmail.com |Education | Cardiff College |
             </p>
         </div>
     </div>
+    <gmp-map center="53.32048034667969,-3.8176896572113037" zoom="14" map-id="DEMO_MAP_ID">
+        <gmp-advanced-marker position="53.32048034667969,-3.8176896572113037" title="My location">
+        </gmp-advanced-marker>
+    </gmp-map>
 </body>
-</html>
+
+
