@@ -1,16 +1,18 @@
-# VADCode
+# VADCode Website Development
 ## UX
 ## Project Goals
-### The primary goal of techech chat is for users to ask questions about anything tech
+### The primary goal of Vadcode Website Development is to advertise a full stack website company
 ## Target
-### The target for this project is for adults and also teens if they have any questions about anything tech they submit the question and any member of the public can answer there are also Admin that can help with the answer an also remove any unwanted posts
+### The target for this project is for adults and also teens looking to gfet a website
 
 ## User Experience
-* Feel they can ask a tech question and get help soon
-* The elderly have a hard time keeping up with tech so this will be a good place for them to come
+* Customers can easliy navigate the website
+* The elderly have a hard time keeping up with tech so this will be a good place for them to come becuae the buttons are nice and clear
 * Large buttons also help navigation
 * Website is easy to navigate
 * Website is not so bright so eyes dont feel under strain
+* Customer can find use in many way by mobile we have google maps with the location
+* Customers can find use with the address we provided
 
 ## Developer and Business Goals
 * Website is made in a way that a user can get answers quick
@@ -33,7 +35,7 @@
 * I used the css code form w3schools to style this website, especially use cards and flex boxes so the website looks good on mobile too
 
 ## Wireframe
-* [Wireframe Layout of website](techhelp.pdf)
+* [Wireframe Layout of website](vadcodewebdev.pdf)
 
 ## A Flask Mini Project
 
