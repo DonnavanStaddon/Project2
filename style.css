@@ -1,0 +1,68 @@
+#head {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+    width: 1279px;
+    height: 300px;
+
+}
+
+#one {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(124, 133, 124);
+    width: 420px;
+    height: 350px;
+}
+
+#two {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(119, 119, 99);
+    width: 420px;
+    height: 350px;
+}
+
+#three {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(117, 95, 95);
+    width: 420px;
+    height: 350px;
+}
+#four {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(117, 95, 95);
+    width: 1279px;
+    height: 200px;
+
+}
+#five {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+    width: 1279px;
+    height: 200px;
+
+}
+
+#container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
