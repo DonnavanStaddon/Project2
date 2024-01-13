@@ -37,7 +37,7 @@ https://donnavanstaddon.github.io/vadcode/
 ## Wireframe
 * [Wireframe Layout of website](vadcodewebdev.pdf)
 
-## VADCode craetion process
+## VADCode creation process
 
 ### Create an index.html page
 ### Create an about page
