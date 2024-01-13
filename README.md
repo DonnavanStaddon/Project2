@@ -17,7 +17,6 @@ https://donnavanstaddon.github.io/vadcode/
 
 ## Developer and Business Goals
 * Website is made in a way that a user can get answers quick
-* I plan to code AI to have instant answers in the future
 * This project is designed for the future in mind
 
 ## Design Choice
