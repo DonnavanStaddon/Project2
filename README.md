@@ -89,21 +89,8 @@ https://donnavanstaddon.github.io/vadcode/
 * [Open this webiste](https://developers.google.com/maps/documentation/javascript/overview) 
 * Click on styling your map on the side menu
 * Click ojn cloud based tooling
-* 
-### Create Procfile
-### Add this into you Procfile web: gunicorn app:app
 ### push to git hub
-### Open Heroku connect github to heroku
-### Procfile issues 
-#### It is happening due to a different encoding type in your Procfile.
-#### Open your Procfile in a text editor, preferably, Notepad.
-#### Save the file and in the encoding option, change the encoding to UTF-8 (default is UTF-16).
-#### Replace your current Procfile with this file in the root folder of your project and remove the .txt extension.
 ### Push your code again and you'll be good to go!
-### Connect Flask to MongoDB Atlas
-### pip install flask-pymongo
-### pip install dnspython
-### pip freeze --local > requirements.txt
 ### i use navbar w3schools to design my website
 [Nav bar code](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
 [I used google fonts for nice fonts](https://www.w3schools.com/howto/tryit.asp?font=Sofia)
