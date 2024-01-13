@@ -12,7 +12,7 @@ https://donnavanstaddon.github.io/vadcode/
 * Large buttons also help navigation
 * Website is easy to navigate
 * Website is not so bright so eyes dont feel under strain
-* Customer can find use in many way by mobile we have google maps with the location
+* Customer can find use in many ways by mobile we have google maps with the location
 * Customers can find use with the address we provided
 
 ## Developer and Business Goals
