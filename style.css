@@ -82,3 +82,7 @@
     padding: 0;
   }
 /*GOOGLE MAPS*/
+
+#map{
+    height: 60vh;
+}

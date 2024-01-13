@@ -8,10 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="style.css">
-    <!-- The callback parameter is required, so we use console.debug as a noop -->
-    <script async
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGq-iiYedwPAgjcrRsrtiJuIYdF2TGU8Q&callback=console.debug&libraries=maps,marker&v=beta">
-        </script>
     <title>Full Stack Website Designer</title>
 </head>
 
@@ -90,8 +86,9 @@
             <p>Education: Vale College | Code Institude UK & Ireland</p>
         </div>
     </div>
-    <gmp-map center="53.32048034667969,-3.8176896572113037" zoom="14" map-id="DEMO_MAP_ID">
-        <gmp-advanced-marker position="53.32048034667969,-3.8176896572113037" title="My location">
-        </gmp-advanced-marker>
-    </gmp-map>
+    <div id="map"></div>
+    <script src="script.js"></script>
+    <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGq-iiYedwPAgjcrRsrtiJuIYdF2TGU8Q&map_ids=ID9b4bf00fc4791563&callback=initMap">
+</script>
 </body>

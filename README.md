@@ -86,8 +86,11 @@ https://donnavanstaddon.github.io/vadcode/
 * Type in a name for your API Key
 * Click restrict key the select maps javascript API in the dropdown
 * Hit save
+* Open vscode
+* [Open this webiste](https://developers.google.com/maps/documentation/javascript/overview) 
+* Click on styling your map on the side menu
+* Click ojn cloud based tooling
 * 
-*
 ### Create Procfile
 ### Add this into you Procfile web: gunicorn app:app
 ### push to git hub
@@ -103,5 +106,5 @@ https://donnavanstaddon.github.io/vadcode/
 ### pip install dnspython
 ### pip freeze --local > requirements.txt
 ### i use navbar w3schools to design my website
-### nav bar code https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
-### I used google fonts for nice fonts https://www.w3schools.com/howto/tryit.asp?font=Sofia
+[Nav bar code](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
+[I used google fonts for nice fonts](https://www.w3schools.com/howto/tryit.asp?font=Sofia)
