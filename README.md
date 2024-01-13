@@ -4,7 +4,7 @@ https://donnavanstaddon.github.io/vadcode/
 ## Project Goals
 ### The primary goal of Vadcode Website Development is to advertise a full stack website company
 ## Target
-### The target for this project is for adults and also teens looking to gfet a website
+### The target for this project is for adults and also teens looking to get a website
 
 ## User Experience
 * Customers can easliy navigate the website
