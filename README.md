@@ -1,4 +1,5 @@
 # VADCode Website Development
+https://donnavanstaddon.github.io/vadcode/
 ## UX
 ## Project Goals
 ### The primary goal of Vadcode Website Development is to advertise a full stack website company
@@ -37,22 +38,56 @@
 ## Wireframe
 * [Wireframe Layout of website](vadcodewebdev.pdf)
 
-## A Flask Mini Project
+## VADCode craetion process
 
-### Create a venv
-### Create Database in MongoDB
-### Create Three Clusters
+### Create an index.html page
+### Create an about page
+### Create a contact page
+### Create a css page
 ### Open VSCode
 ### Click source control
 ### Click publish to github
-### In your terminal pip install Flask
-### create file app.py
-### create file env.py
-### create .gitignore to hide personal data from public view in github
-### put env.py in gitignore
-### Set up environment variables in env.py
-### pip install gunicorn
-### Create requirements.txt file
+## Google Maps
+### How i created a custom google map for my web site
+* Open google cloud platform website
+* Click select a project dropdown
+* And select new project
+* Give your project a name
+* Then click create
+* Click select project
+* in the menu go to google maps platform
+* The select map management
+* Click create new map ID
+* Give the map a name
+* And under map type select javascript
+* Select Raster
+* Click next
+* Note your map id you will need it later
+* Select map styles
+* And click create new map style
+* Click save
+* Give your map style a name
+* Click submit to save
+* Click customize style
+* In the search bar type in the location you want to be displayed on your website
+* Click save
+* Then click publish
+* In the side menu click map management
+* Then select your map
+* Click the map style assosiated with ID dropdown and choose yur map
+* Click save
+* Copy and paste your map id in a safe place
+* Click API
+* Open the left top burger icon
+* And select APIs and services and then credential
+* Click create credential link on top then click API key to generate your API Key
+* Save your API key in a safe place
+* Click restrict access and enter your website you are going to put the map in
+* Type in a name for your API Key
+* Click restrict key the select maps javascript API in the dropdown
+* Hit save
+* 
+*
 ### Create Procfile
 ### Add this into you Procfile web: gunicorn app:app
 ### push to git hub
