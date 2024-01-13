@@ -8,7 +8,7 @@ https://donnavanstaddon.github.io/vadcode/
 
 ## User Experience
 * Customers can easily navigate the website
-* The elderly have a hard time keeping up with tech so this will be a good place for them to come becuae the buttons are nice and clear
+* The elderly have a hard time keeping up with tech so this will be a good place for them to come because the buttons are nice and clear
 * Large buttons also help navigation
 * Website is easy to navigate
 * Website is not so bright so eyes dont feel under strain
