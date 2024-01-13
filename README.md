@@ -7,7 +7,7 @@ https://donnavanstaddon.github.io/vadcode/
 ### The target for this project is for adults and also teens looking to get a website
 
 ## User Experience
-* Customers can easliy navigate the website
+* Customers can easily navigate the website
 * The elderly have a hard time keeping up with tech so this will be a good place for them to come becuae the buttons are nice and clear
 * Large buttons also help navigation
 * Website is easy to navigate
